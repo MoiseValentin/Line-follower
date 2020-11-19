@@ -1,8 +1,8 @@
 ### Started on: 28.02.2019
 ### Last updated: 01.03.2019
-# Arduino Line Follower
+# Arduino Project - Line Follower Robot
 ## Components:
-- Arduino Uno
+- Arduino UNO
 - Infrared Reflective Sensor Array (8 Sensors)
 - L293D driver for motors
 - 2 DC motors
@@ -13,6 +13,7 @@
 - Ball caster
 - 9-Volt battery
 - Connection wires
+- 3D printed chassis
 
 ![Arduino Artillery Game](https://i.imgur.com/z9rcNqn.jpg)
 
